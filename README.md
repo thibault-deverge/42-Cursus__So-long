@@ -1,5 +1,7 @@
 # <img src="https://logowik.com/content/uploads/images/423918.logowik.com.webp" style="width: 40px; height: auto;"> This project is part of my cursus at School 42 <img src="https://logowik.com/content/uploads/images/423918.logowik.com.webp" style="width: 40px; height: auto;">
 
+![gif](./ressources/so_long.gif)
+
 ## 📋 Project Overview
 
 Welcome to my **So_Long** based on Pokemon, a small 2D game developed in C using the MiniLibX graphical library. The game challenges the player to collect all items on the map and find the exit while navigating through a maze of obstacles (I also implemented ennemies as Mewtoo). The project is part of the 42 School curriculum and focuses on learning essential concepts of graphics, event handling, and memory management in C.
@@ -57,7 +59,6 @@ Example simple map:
 
 There are valids and non-valid maps inside the maps folder to try out.
 
-## Demo
 
-![gif](./ressources/so_long.gif)
+## Rating
 ![rating](./ressources/rating.png)
